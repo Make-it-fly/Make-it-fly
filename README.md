@@ -1,4 +1,9 @@
 
+<h1> Olá, eu sou Lucas Magalhães </h1>
+<p>É um prazer tê-lo aqui! 😁 </p>
+<p>Sou um desenvolvedor front end entusiasmado e amante da tecnologia. </p>
+
+
 <h2>Alguns dos meus projetos:</h2>
 <h3>KenzieHub</h3>
 <p>KenzieHub é uma aplicação feita para consumir bibliotecas REACT como: React Router Dom, React Hook Form, Styled Components, Yup. Para acessar a aplicação, o usuário precisa se autenticar na plataforma. Após isso, poderá cadastrar as tecnologias das quais é proficiente.</p>
