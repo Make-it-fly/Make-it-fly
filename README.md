@@ -2,6 +2,7 @@
 <h1> Olá, eu sou Lucas Magalhães </h1>
 <p>É um prazer tê-lo aqui! 😁 </p>
 <p>Sou um desenvolvedor front end entusiasmado e amante da tecnologia. </p>
+<h2>Acesse o meu Portfolio: https://meu-portfolio-profissional.vercel.app/ <h2/>
 
 
 <h2>Alguns dos meus projetos:</h2>
