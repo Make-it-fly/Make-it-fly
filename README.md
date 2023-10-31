@@ -1,3 +1,5 @@
+https://github.com/grupo13-t13-felipe/projeto-fullstack
+
 
 <h1> Olá, eu sou Lucas Magalhães </h1>
 <p>É um prazer tê-lo aqui! 😁 </p>
@@ -5,6 +7,10 @@
 <h2>Acesse o meu Portfolio: https://meu-portfolio-profissional.vercel.app/ <h2/>
 
 <h2>Alguns dos meus projetos:</h2>
+<h3>Motors Shop : Fullstack (Frontend: React+Next / Backend: Nest)</h3>
+<p>Plataforma ilustrativa de compra e venda de carros. O projeto conta com formas modernas de autenticação, conforto na navegação do usuário e consultas em uma api da tabela fipe. É um projeto de finalização de curso na Kenzie academy Brasil, que foi feito por 5 alunos e 1 professor, trabalhando lado a lado numa rotina simulando metodologia ágil.</p>
+<span>https://github.com/grupo13-t13-felipe/projeto-fullstack</span>
+
 <h3>Biblioteca Kenzie (Back-end : Python/Django )</h3>
 <p>Plataforma  de  biblioteca,  onde  o  administrador  pode  cadastrar  livros,  cópias destes livros e realizar empréstimos das cópias. O administrador tem acesso ao relatório e prazo dos empréstimos .</p>
 <span>https://github.com/bibliotekaM5ProjetoFinal/bibliotekaKenzie_M5</span>
